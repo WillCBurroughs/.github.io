@@ -34,7 +34,7 @@
 
 ## What is something about you that can only be learned by reading this blog?
 
-> I'm making a dating app and that is one of the main reasons I'm taking the bootcamp. I'm passionate about startups and I want to start a company that improves the world someday. I really enjoy creating things and I think looking back on things you have made, ***especially if they have utility and have made someone's life better is very rewarding***. <br></br> ![Image of app I'm making](/img/Large-Clear-Logo.png)
+> I'm making a dating app and that is one of the main reasons I'm taking the bootcamp. I'm passionate about startups and I want to start a company that improves the world someday. I really enjoy creating things and I think looking back on things you have made, ***especially if they have utility and have made someone's life better is very rewarding***. <br></br> ![Image of app I'm making](/img/SmallestLogo.png)
 
 <br> </br>
 
@@ -76,9 +76,9 @@ $ mv
 
 ``` markdown
 
-> [Make Blockquote] :joy: :tada:
-# [name to display](link) (Used to make link to website) :joy: :tada:
-![alternate photo name](image path) (Used to add images) :joy: :tada:
+> [Make Blockquote] 
+# [name to display](link) (Used to make link to website) 
+![alternate photo name](image path) (Used to add images) 
 
 ```
 </details>
