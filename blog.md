@@ -94,4 +94,21 @@ $ mv
 <a href = "https://www.instagram.com/w.burroughs/"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width = "50" height = "50" > </a>
 <a href = "https://t.snapchat.com/D4ojqLN"><img src = "https://assets.stickpng.com/images/580b57fcd9996e24bc43c536.png" width = "50" height = "50" > </a>
 
+# Week 2
+
+## What is something you wish you could do but currently do not have the coding skills to accomplish?
+
+> I wish that I could create a backend from scratch to make a useful application. I also want to improve my design skills to make something that looks good 
+
+## What are you struggling with?
+
+> I am struggling most with design. I keep trying to find hard rules to help learn design, things like what size certain on-screen elements should be and how to make and check pages aesthetic to see what does and does not work. 
+
+## How do you solve a problem? 
+
+> I look back at times that I have had a previous problem, outline potential solutions and decide on what the most practical answer is. If I don't like the solution I iterate over what I've made.
+
+## What methods do you use to help yourself get unstuck?
+
+> Take a break, look at similar problems. Try something that is close to solving the problem and then iterate. 
 
