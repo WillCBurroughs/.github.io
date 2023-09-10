@@ -112,3 +112,22 @@ $ mv
 
 > Take a break, look at similar problems. Try something that is close to solving the problem and then iterate. 
 
+
+# Week 3
+
+## What do we want to keep doing?
+
+> Working on projects that are fun and that I can learn from. Learning everyday and having a good time making things that I enjoy. 
+
+## What do we want to stop doing?
+
+> Only finishing projects without doing the best I could. Always work on projects and a little extra to them. 
+
+## What do we want to write into our DNA and do forever?
+
+> Enjoying making projects and coming up with fun ideas for interesting projects 
+
+## What do we want to tell our "prior to Bootcamp" self?
+
+> Working on projects is the best way to learn and you will run into things that you don't like. Sometimes you have to go through things the longways.
+
