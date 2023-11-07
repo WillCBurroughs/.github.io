@@ -131,3 +131,20 @@ $ mv
 
 > Working on projects is the best way to learn and you will run into things that you don't like. Sometimes you have to go through things the longways.
 
+# Sprint 1: 
+
+## What is the number one thing that held you back this week? Why?
+
+> I had a difficult time understanding state. I thought I could learn it better if I took more time to learn the material
+
+## What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+
+> I Would like to learn more about objects and how to internalize bootstrap and atomic design principles. I think it may just be a matter of spaced repetition.
+
+## What is your “Why”?
+
+> I want to feel better about myself and take care of my family and the people who are the most important to me.
+
+
+
+
